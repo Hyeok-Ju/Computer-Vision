@@ -4,4 +4,4 @@
 
 1. LeNet-5 (2022.07.03)[https://www.notion.so/LeNet-5-4a0a3613328245608c2a764eae0e377a]
 
-2. AleNet (2022.07.24)[notion 정리는 아직..]
+2. AlexNet (2022.07.24)[notion 정리는 아직..]
